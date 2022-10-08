@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {border-radius: 50%;}
+
+h1{color:lightblue;}
+h4{color:lightblue;}
